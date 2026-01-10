@@ -5,6 +5,7 @@ This repository contains notebooks and materials for learning calculus, specific
 ## Contents
 
 - `my_learning/`: Personal notebooks exploring calculus concepts.
+    - `basic_derivatives.ipynb`: Table of common derivatives and SymPy examples.
     - `differentiation_rules.ipynb`: Detailed notes and Python code for differentiation rules (Chain, Product, Quotient).
 - `coursera/`: Labs and assignments from Coursera courses.
     - `C2_W1_Lab_1_differentiation_in_python.ipynb`: Lab on differentiation in Python.
