@@ -2,3 +2,5 @@ sympy
 numpy
 matplotlib
 ipykernel
+jax
+pandas
