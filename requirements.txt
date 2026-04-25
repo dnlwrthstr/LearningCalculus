@@ -4,3 +4,5 @@ matplotlib
 ipykernel
 jax
 pandas
+nbformat
+plotly
